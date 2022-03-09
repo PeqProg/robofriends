@@ -1,0 +1,11 @@
+@font-face {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  src: local();
+}
+
+h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #f026f0;
+}
